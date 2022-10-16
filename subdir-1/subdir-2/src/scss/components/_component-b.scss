@@ -1,0 +1,5 @@
+@use "Scss/variables";
+
+.component-b {
+  padding: variables.$padding;
+}
